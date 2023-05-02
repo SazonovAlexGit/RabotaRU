@@ -4,4 +4,4 @@
 команда
 # In Data We Trust
 
-Описание файлов находиться в презентации in data we trust 3.pptx
+Описание файлов находиться в презентации # in data we trust 3.pptx
